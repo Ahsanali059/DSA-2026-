@@ -1,0 +1,17 @@
+Top 10 DSA Patterns
+
+1) Traversal Technique
+     -> Visiting each element one by one
+     -> Sorting
+     -> Searching
+2) Two Pointer 
+3) Sliding window
+4) Fast and slow pointer
+5) Prefix sum and suffix sum
+6) Frequency Counting
+7) Seen and Existence check
+8) Tree Traversal 
+       -> DFS
+       -> BFS
+9) Recursion
+10) DP & Greedy algo 
